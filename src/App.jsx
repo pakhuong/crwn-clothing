@@ -10,7 +10,7 @@ import { auth, createUserProfileDocument } from "./firebase/firebase.utils";
 
 import CheckoutPage from "./pages/checkout/checkout.component";
 import Homepage from "./pages/homepage/homepage.component";
-import ShopPage from "./pages/shop-page/shop-page.component";
+import ShopPage from "./pages/shop-page/shop.component";
 import SignInAndSignUpPage from "./pages/sign-in-and-sign-up/sign-in-and-sign-up.component";
 
 import { setCurrentUser } from "./redux/user/user.actions";
